@@ -108,6 +108,4 @@ If you replace the embedded data with a live source:
 
 ---
 
-## 📄 License
 
-This project is intended for internal analytics purposes. Please review your organisation's data-sharing policy before publishing or distributing this report.
